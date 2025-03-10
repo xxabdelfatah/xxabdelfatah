@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercat.com%2Fboy-programmer-wallpapers&psig=AOvVaw3ETSs4BC_sJyE8owcVyLae&ust=1741653686877000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDAl-aj_osDFQAAAAAdAAAAABAT"  />
+  <img height="150" src="https://files.fm/u/um4gs86re3"/>
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="[https://profile-counter.glitch.me/xxabdelfatah/count.svg?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercat.com%2Fboy-programmer-wallpapers&psig=AOvVaw3ETSs4BC_sJyE8owcVyLae&ust=1741653686877000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDAl-aj_osDFQAAAAAdAAAAABAT)"  />
+  <img src="https://files.fm/u/um4gs86re3"/>
 </div>
 
 ###
